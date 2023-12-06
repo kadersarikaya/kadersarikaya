@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kader</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">A passionate Software Engineer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadersarikaya&label=Profile%20views&color=0e75b6&style=flat" alt="kadersarikaya" /> </p>
 
 - 🔭 I’m currently working on **Fullstack projects**
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently learning **Backend development, SAP, AI, ML**
 
 - 👨‍💻 All of my projects are available at [https://www.kadersarikaya.com/](https://www.kadersarikaya.com/)
 
