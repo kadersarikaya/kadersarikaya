@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Fullstack projects**
 
-- 🌱 I’m currently learning **Backend development, SAP, AI, ML**
+- 🌱 I’m currently learning **Backend development, AI**
 
 - 👨‍💻 All of my projects are available at [https://www.kadersarikaya.com/](https://www.kadersarikaya.com/)
 
