@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Backend development, AI**
 
-- 👨‍💻 All of my projects are available at [https://www.kadersarikaya.com/](https://www.kadersarikaya.com/)
-
 - 📝 I regularly write articles on [https://medium.com/@kadersarikaya](https://medium.com/@kadersarikaya)
 
 - 💬 Ask me about **React, nextjs, frontend development**
